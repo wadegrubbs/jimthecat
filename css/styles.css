@@ -23,3 +23,13 @@ em {
 li {
   font-kerning: auto;
 }
+
+.inverse {
+  color: white;
+  background-color: black;
+}
+
+.normal {
+  color: black;
+  background-color: white;
+}
